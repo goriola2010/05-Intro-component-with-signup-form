@@ -1,0 +1,119 @@
+.body {
+  background-color: hsl(0, 100%, 74%);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-image: url(images/bg-intro-desktop.png);
+  background-repeat: no-repeat;
+}
+.div5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-family: Poppins;
+  height: 100vh;
+}
+.div1 {
+  padding-left: 200px;
+}
+.h1 {
+  font-size: 50px;
+  color: white;
+  font-family: Poppins;
+  display: flex;
+  padding-right: 100px;
+  margin-bottom: -5px;
+  line-height: 1;
+}
+.sp5 {
+  margin-bottom: -5px;
+}
+.p1 {
+  font-size: 16px;
+  color: white;
+  font-family: Poppins;
+  display: flex;
+  padding-right: 100px;
+}
+.div2 {
+  padding-right: 200px;
+}
+.main {
+  min-width: 40dvh;
+}
+.div3 {
+  padding-right: 50px;
+  min-width: 100%;
+}
+.p2 {
+  font-family: Poppins;
+}
+.but {
+  padding: 6px;
+  border-radius: 10px;
+  margin: 2px;
+  display: block;
+  min-width: 100%;
+  background-color: hsl(248, 32%, 49%);
+}
+.p3 {
+  text-align: center;
+}
+.sp1 {
+  color: white;
+  font-family: Poppins;
+  font-size: 11px;
+}
+.sp2 {
+  color: hsl(249, 10%, 26%);
+  font-family: Poppins;
+  font-size: 11px;
+}
+.fo {
+  font-size: 16px;
+  background-color: white;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  padding-top: 20px;
+  min-width: 300px;
+  align-items: center;
+  font-family: Poppins;
+}
+.inp {
+  padding: 10px;
+  font-family: Poppins;
+  font-size: 11px;
+  width: 80%;
+  border-radius: 6px;
+  border-color: lightgray;
+  border-width: 0.2px;
+}
+.but2 {
+  padding: 15px;
+  width: 80%;
+  font-family: Poppins;
+  font-size: 11px;
+  margin: 20px;
+  border-radius: 10px;
+  background-color: hsl(154, 59%, 51%);
+  color: white;
+  text-align: center;
+  border-style: none;
+}
+.div4 {
+  font-size: 7%;
+  text-align: center;
+  font-family: Poppins;
+}
+.sp3 {
+  color: hsl(246, 25%, 77%);
+  font-size: 9px;
+}
+.sp4 {
+  color: hsl(0, 100%, 74%);
+  font-size: 9px;
+}
